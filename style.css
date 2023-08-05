@@ -1,0 +1,15 @@
+body{
+    background-color: mediumorchid;
+    
+}
+span{
+    font-size: 30px;
+    padding-left: 10px;
+}
+#tempo{
+float: right;
+margin: 30px; ;
+}
+#seuesboço{
+    color: chartreuse;
+}
